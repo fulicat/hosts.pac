@@ -21,7 +21,6 @@ var hostsList = [
 // blackList (url(keyword) or domain)
 var blackList = [
 	{domain:'gj.qq.com'},
-	{url:'http://bbs.hbqc.com/ad/'},
 	{url:'http://www.dygang.com/d/'},
 	{url:'http://news.52kmh.com'},
 	{url:'http://analytics.163.com'},
