@@ -1,0 +1,2 @@
+# hosts.pac
+pac script
