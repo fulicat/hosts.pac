@@ -186,6 +186,7 @@ var blackList = [
 	{domain:'lmphb.com'},
 	{domain:'bodlm.com'},
 	{domain:'qidou.com'},
+	{domain:'umeng.co'},
 	{domain:'umeng.com'},
 	{domain:'shendu.cc'},
 	{domain:'ytop8.com'},
