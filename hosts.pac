@@ -379,7 +379,7 @@ function FindProxyForURL(url, host){
 			};
 			if(blackList[i].domain){
 				// block by domain
-				if(dnsDomainIs(host, blackList[i].domain)){
+				if(shExpMatch(host, blackList[i].domain)){
 					return 'PROXY '+ block +';';
 				};
 			};
